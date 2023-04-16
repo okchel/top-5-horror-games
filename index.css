@@ -1,0 +1,567 @@
+.html
+{
+    scroll-behavior: smooth;
+}
+
+.header
+{
+    width: 100%;
+    height: 15vh;
+}
+.logo
+{
+    border-radius: 100%;
+}
+.intro
+{
+    background: linear-gradient(178.63deg, #B02525 2.14%, rgba(176, 37, 37, 0.84) 25.54%, rgba(176, 37, 37, 0.7) 51.99%, rgba(176, 37, 37, 0.4) 84.54%, rgba(198, 55, 55, 0.3) 98.77%);
+    height: 100vh;
+}
+.content
+{
+    width: 100%;
+    height: 85vh;
+}
+.intro_words_container
+{
+    width: 100%;
+    height: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro_words
+{
+    margin-top: 0.5em;
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    text-shadow: 0px 4px 40px #000000;
+    
+}
+.intro_words_btn
+{
+    width: 100%;
+    height: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-outline-danger
+{
+    width:30%;
+    height: 40%;
+    font-size: 3em;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 25px 25px 70px 10px rgba(0, 0, 0, 0.25);
+}
+.description
+{
+    height: 33%;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(176, 37, 37, 0) 0%, rgba(176, 37, 37, 0.19) 22.4%, rgba(0, 240, 255, 0.56) 50%, rgba(0, 240, 255, 0.83) 72.92%, #00E9F8 92.98%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.descp_words
+{
+    font-size: 1.5em;
+    font-family: 'Inter';
+    font-style: normal;
+    text-align: center;
+}
+.fifth_place
+{
+    width: 100%;
+    height: 100vh;
+} 
+.top5
+{
+    width:100%;
+    height:33%;
+
+    display: flex;
+    justify-content: center;
+}
+.info
+{
+    width:100%;
+    height:33%;
+
+}
+.steam
+{
+    width:100%;
+    height:33%;
+}
+.krb
+{
+    width:50%;
+    height:10%;
+    background-color: #E99797;
+    border-radius: 25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+}
+.forth_place
+{
+    width: 100%;
+    height: 100vh;
+} 
+.top4
+{
+    width:100%;
+    height:33%;
+    display: flex;
+    justify-content: center;
+}
+.info2
+{
+    width:100%;
+    height:33%;
+
+}
+.steam2
+{
+    width:100%;
+    height:33%;
+
+}
+.krb2
+{
+    width:50%;
+    height:10%;
+    background-color: #E99797;
+    border-radius: 25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+}
+.thrith_place
+{
+    width: 100%;
+    height: 100vh;
+    
+} 
+.top3
+{
+    width:100%;
+    height:33%;
+
+    display: flex;
+    justify-content: center;
+}
+.info3
+{
+    width:100%;
+    height:33%;
+
+}
+.steam3
+{
+    width:100%;
+    height:33%;
+}
+.krb3
+{
+    width:50%;
+    height:10%;
+    background-color: #E99797;
+    border-radius: 25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+}
+.bg3
+{
+    background: #1E1E1E;
+    height: 100vh;
+}
+.bg2
+{
+    background: linear-gradient(180deg, rgba(0, 240, 255, 0.7) 0%, rgba(0, 240, 255, 0.7) 6.67%, rgba(31, 75, 78, 0.411) 63.02%, rgba(14, 3, 3, 0.7) 92.7%);
+    height: 100vh;
+}
+.bg1
+{
+    background: linear-gradient(180deg, #00E8F6 0.7%, #00F0FF 20.83%, #00E7F5 58.33%, rgba(0, 231, 245, 0.7) 93.83%, rgba(0, 231, 245, 0.71) 98.75%, rgba(0, 231, 245, 0.74) 99.29%);
+    height: 100vh;
+}
+.text3
+{
+    color: red;
+}
+.steam5
+{
+    color: #464545;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.steam4
+{
+    color: #464545;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.steam3
+{
+    color: #464545;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.steam2
+{
+    color:#464545;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.steam
+{
+    color:#464545;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.photo
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    
+}
+.title
+{
+    font-size: 2.5em;
+    color: #B02525;
+}
+.pacify_words
+{
+    text-align: center;
+    font-size:200%;
+    color: #B02525;
+}
+.photo_containter
+{
+    width: 25%;
+   
+}
+.words_container
+{
+    width: 75%;
+    display: flex;
+    justify-content: center;
+   
+}
+.occult
+{
+    height: 100%;
+    width: 40%;
+} 
+.ITB
+{
+    height: 100%;
+    width:40%;
+}
+.ITB_words
+{
+    text-align: center;
+    font-size:200%;
+    color: #B02525;
+}
+.krb4
+{
+    width:50%;
+    height:10%;
+    background-color: #E99797;
+    border-radius: 25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+}
+.second_place
+{
+    width: 100%;
+    height: 100vh;
+    
+} 
+.top2
+{
+    width:100%;
+    height:33%;
+
+    display: flex;
+    justify-content: center;
+}
+.info
+{
+    width:100%;
+    height:33%;
+    
+}
+.steam4
+{
+    width:100%;
+    height:33%;
+}
+.bg4
+{
+    background: linear-gradient(180deg, rgba(117, 197, 222, 0) 2.49%, rgba(52, 90, 102, 0.329) 13.96%, rgba(117, 197, 222, 0.940602) 33.63%, #75C5DE 99.45%);
+    height: 100vh;
+   
+}
+.first_place
+{
+    width: 100%;
+    height: 100vh;
+    
+} 
+.top1
+{
+    width:100%;
+    height:33%;
+
+    display: flex;
+    justify-content: center;
+}
+.info
+{
+    width:100%;
+    height:33%;
+
+}
+.steam5
+{
+    width:100%;
+    height:33%;
+}
+.krb5
+{
+    width:50%;
+    height:10%;
+    background-color: #E99797;
+    border-radius: 25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+}
+.bg5
+{
+    background: #FFC700;
+    height: 100vh;
+}
+.bonus_place
+{
+    width: 100%;
+    height: 100vh;
+    
+} 
+.top0
+{
+    width:100%;
+    height:33%;
+
+    display: flex;
+    justify-content: center;
+}
+.info
+{
+    width:100%;
+    height:33%;
+
+}
+.steam6
+{
+    width:100%;
+    height:33%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.krb6
+{
+    width:50%;
+    height:10%;
+    background-color: #E99797;
+    border-radius: 25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+}
+.bg6
+{
+    height: 100vh;
+    
+}
+
+
+
+
+
+@media screen and (max-width:1210px) {
+    .words_container
+    {
+        width:70%;
+    }
+    .pacify_words
+    {
+        font-size:180%;
+    }
+}
+@media screen and (max-width:1080px) {
+    .intro_words
+    {
+        font-size:4.5em;
+    }
+    .words_container
+    {
+        width:65%;
+    }
+    .pacify_words
+    {
+        font-size:180%;
+    }
+    .steam3
+    {
+        display:flex;
+        justify-content: left;
+    }
+    .steam
+    {
+        display:flex;
+        justify-content: left;
+    }
+    .steam6
+    {
+        display:flex;
+        justify-content:left
+    }
+}
+@media screen and (max-width:900px) {
+    .words_container
+    {
+        width:60%;
+    }
+    .pacify_words
+    {
+        font-size:160%;
+    }
+    .photopac2
+    {
+        width:90%;
+    }
+    .photopac
+    {
+        width:100%;
+        height:100%;
+    }
+    .photo_containter
+    {
+        width:35%
+    }
+}
+@media screen and (max-width:641px) {
+    .intro_words
+    {
+        font-size: 4em;
+    }    
+}
+@media screen and (max-width:559px) {
+    .intro_words
+    {
+        font-size: 3.5em;
+    }    
+}
+@media screen and (max-width:400px){
+    .info
+    {
+        height:70%;
+    }
+    .photo
+    {
+        flex-direction:column;
+        align-items:center;
+    }
+    .photo_containter
+    {
+        height:70%;
+        width:100%;
+    }
+    .words_container
+    {
+        height:50%;
+        width:100%;
+        font-size: 60%;
+    }
+    .top5
+    {
+        align-items:center;
+    }
+    .top4
+    {
+        align-items:center;
+    }
+    .steam
+    {
+        align-items:flex-start;
+    }
+    .ITB_words
+    {
+        font-size:17px
+    }
+    .descp_words
+    {
+        font-size:20px;
+    }
+    .intro_words
+    {
+        font-size:2.7em;
+    }
+    .steam3
+    {
+        align-items:flex-start;
+    }
+    .krb5
+    {
+        align-items:flex-end;
+        margin-top:100px;
+    }
+    .krb4
+    {
+        align-items: flex-end;
+        margin-top:100px;
+    }
+    .krb6
+    {
+        align-items:flex-end;
+        margin-top:100px;
+    }
+    .btn-outline-danger
+    {
+        width:100%;
+        font-size:200%;
+        height:30%;
+    }
+    .photopac2
+    {
+        width:100%;
+    }
+}
