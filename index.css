@@ -565,3 +565,13 @@
         width:100%;
     }
 }
+@media screen and (max-width:360px){
+    .intro_words{
+        font-size:2em;
+    }
+}
+@media screen and (max-width:300px){
+    .intro_words{
+        font-size:1.5em;
+    }
+}
